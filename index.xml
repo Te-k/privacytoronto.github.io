@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy Discussions in Toronto</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Privacy Discussions in Toronto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 May 2017 18:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy 101: An Open Discussion - 16th of May 2017</title>
+      <link>http://example.org/blog/2017/05/privacy-101-an-open-discussion---16th-of-may-2017/</link>
+      <pubDate>Tue, 16 May 2017 18:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/blog/2017/05/privacy-101-an-open-discussion---16th-of-may-2017/</guid>
+      <description>The first Privacy Discussion will be held the 16th of May 2017 at the 519 Community Center from 6pm to 8pm.
+Program  Introduction What Is Threat Modelling (10 minutes) Workshop - Strategies Of Resistance (45 minutes) Break (10 minutes) Talk : Chat Apps / Secure Passwords Open Discussion : ask all your question to our facilitators around drinks  What you should bring  Your curiosity and concerns Your motivation Something to take notes Any device you are comfortable with (optional)  Before coming to the event, please take some time to read the Code Of Conduct</description>
+    </item>
+    
+    <item>
+      <title>Code Of Conduct</title>
+      <link>http://example.org/codeofconduct/</link>
+      <pubDate>Tue, 18 Apr 2017 00:02:28 -0400</pubDate>
+      
+      <guid>http://example.org/codeofconduct/</guid>
+      <description>Code of Conduct Privacy Toronto is dedicated to providing a harassment-free environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of event participants in any form.
+Be kind to others. Do not insult or put down other attendees. Behave humanly. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate in our events.
+Attendees violating these rules may be asked to leave the event at the sole discretion of the event organizers.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://example.org/resources/</link>
+      <pubDate>Mon, 17 Apr 2017 23:35:11 -0400</pubDate>
+      
+      <guid>http://example.org/resources/</guid>
+      <description>Here is a non-exhaustive list of resources on privacy and security:
+ EFF Surveillance Self-Defense Guide contains security guides with interesting list of guides depending on your profile (like protester or LGBTQ2SI)
+ Security In a Box Guide is an in-depth security guide with detailed instructions on how to use tools for your operating system
+ My Shadow is a web portal explaining how we let digital traces online and how to avoid it (including an amazing Privacy Policy reader and a list of interesting apps)</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 17 Apr 2017 23:29:20 -0400</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Privacy Discussions in Toronto is a group which aims at increasing awareness of everyone about Privacy and Security. We think that privacy and security are new challenges in our quickly evolving society and that everyone should have enough knowledge to take informed decisions.
+We are organising discussions around privacy in Toronto that we want accessible to everyone, as a place to share our concerns and learn from each other. We especially want to open this discussions to minorities (wether because of their origin, gender or sexual orientation) who are more likely to be at risk of digital threats than anyone.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://example.org/home/</link>
+      <pubDate>Mon, 17 Apr 2017 23:29:20 -0400</pubDate>
+      
+      <guid>http://example.org/home/</guid>
+      <description>This is the website of Privacy Discussions in Toronto. We are a group of people who aims at increasing global awareness and knowledge about privacy and Security.
+We organize events in Toronto about privacy, check our next event
+Next Event : Privacy 101: An Open Discussion The first Privacy Discussion will be held the 16th of May 2017 at the 519 Community Center from 6pm to 8pm.
+Program  Introduction What Is Threat Modelling (10 minutes) Workshop - Strategies Of Resistance (45 minutes) Break (10 minutes) Talk : Chat Apps / Secure Passwords Open Discussion : ask all your question to our facilitators around drinks  Other informations Please have a look at:</description>
+    </item>
+    
+  </channel>
+</rss>
