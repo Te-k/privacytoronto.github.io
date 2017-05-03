@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Privacy Discussions in Toronto</title>
+    <link>https://privacytoronto.github.io/events/</link>
+    <description>Recent content in Events on Privacy Discussions in Toronto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 May 2017 18:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://privacytoronto.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy 101: An Open Discussion - 16th of May 2017</title>
+      <link>https://privacytoronto.github.io/events/2017/05/privacy-101-an-open-discussion---16th-of-may-2017/</link>
+      <pubDate>Tue, 16 May 2017 18:00:00 -0400</pubDate>
+      
+      <guid>https://privacytoronto.github.io/events/2017/05/privacy-101-an-open-discussion---16th-of-may-2017/</guid>
+      <description>The first Privacy Discussion will be held the 16th of May 2017 at the 519 Community Center from 6pm to 8pm. We&amp;rsquo;ll combine a brief talk and a workshop, and leave time for a Q&amp;amp;A/extended discussion.
+Program  Introduction What Are Your Concerns? A Threat Modeling Introduction (10 minutes) Workshop : Strategies Of Resistance (45 minutes) Break (10 minutes) Talk : Chat Apps / Secure Passwords Open Discussion : Q&amp;amp;A with facilitators and attendees  What you should bring  Your curiosity Your motivation Something to take notes Any device you are comfortable with (optional)  Before coming to the event, please take some time to read the Code Of Conduct</description>
+    </item>
+    
+  </channel>
+</rss>
